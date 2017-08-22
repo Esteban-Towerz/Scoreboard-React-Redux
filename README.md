@@ -1,4 +1,4 @@
-# Treetunes :pager:
+# SCOREBOARD :pager:
 
 a Scoreboard App built using React-Redux
 
